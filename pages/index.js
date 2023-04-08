@@ -56,14 +56,17 @@ export default function Home() {
             </ul>
           </nav>
           <div className="text-center p-10 py-10">
-            <h2 className=" text-base  text-teal-600 font-medium dark:text-teal-400 md:text-3xl">
+            <h2 className=" text-base  text-sky-500 font-medium dark:text-sky-500 md:text-3xl">
               Junyi Li
             </h2>
-            <h3 className="text-xl py-2 dark:text-white md:text-2xl">
+            <h3 className="text-xl py-2 text-pink-500 dark:text-pink-500 md:text-2xl">
               Developer
             </h3>
-            <li className="w-1/4">
-               <Link href="/projects/react"><p className=" h-12 text-2xl py-1 bg-black text-slate-100 dark:text-white" >My Project</p></Link>
+            <li className="w-1/4 buttonContainer">
+               <Link className="myProjectButton" href="/projects/react"><p className="myProjectButton">
+                <span>
+                  My Projects
+                </span></p></Link>
              </li>
           </div>
         </section>

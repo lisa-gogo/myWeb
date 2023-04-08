@@ -20,7 +20,7 @@ export default function react() {
               users can contact with each other.
              </div>
              <a href ="https://neon-concha-e30ae6.netlify.app/" target="_blank" rel="noopener noreferrer" className="w-1/4">
-               <div className="text-lg cursor-point w-1/4 bg-black text-slate-100 text-center cursor-pointer py-3  m-4">Link here</div>
+               <div className="text-lg cursor-point w-1/4 bg-black text-slate-100 text-center cursor-pointer py-3  m-4">Click here</div>
               </a>
           </div>
             <div className="basis-1/3">
@@ -36,7 +36,7 @@ export default function react() {
             <div className="text-lg"> I use React as frontend, MongoDB in database, and Nodejs as backend.</div>
              <div className="text-lg"> You can login and write review for the restaurant. </div>
               <a href ="https://mellifluous-arithmetic-067e17.netlify.app/" target="_blank" rel="noopener noreferrer">
-                 <div className="text-lg cursor-point bg-black text-white w-1/4 cursor-pointer py-3 m-4 text-center">Link here</div>
+                 <div className="text-lg cursor-point bg-black text-white w-1/4 cursor-pointer py-3 m-4 text-center">Click here</div>
               </a>
             <div>
               <Image
