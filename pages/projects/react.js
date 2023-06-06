@@ -14,13 +14,16 @@ export default function react() {
            <h3 className="text-3xl py-10 text-center dark:text-white "><div>Project</div></h3>
           <div>
             
-          <div className="text-lg text-sky-600">First project, a platform that enables solo travelers to post their upcoming travel destinations, allowing other interested travelers to join them on their trip for a short period of time.</div>
+          <div className="text-lg text-sky-600">A platform allows solo travelers to post their upcoming travel destinations. It allows other interested travelers to join them on their trip for a short period of time.</div>
             <div className="text-lg"> I use firebase for authentication, React as frontend, React redux to manage state, and PostgreSQL in database, and Nodejs as backend.</div>
              <div className="text-lg">You can register or login, and make your posts and check all your posts.You can check the each post detail. I am going to add chat function to this app, so two
               users can contact with each other.
              </div>
              <a href ="https://neon-concha-e30ae6.netlify.app/" target="_blank" rel="noopener noreferrer" className="w-1/4">
-               <div className="text-lg cursor-point w-1/4 bg-black text-slate-100 text-center cursor-pointer py-3  m-4">Click here</div>
+               <div className="text-lg cursor-point w-1/4 bg-black text-slate-100 text-center cursor-pointer py-3  m-4">Website Link</div>
+              </a>
+              <a href ="https://github.com/lisa-gogo/shared-room-app" target="_blank" rel="noopener noreferrer" className="w-1/4">
+               <div className="text-lg cursor-point w-1/4 bg-black text-slate-100 text-center cursor-pointer py-3  m-4">Github</div>
               </a>
           </div>
             <div className="basis-1/3">
@@ -36,7 +39,10 @@ export default function react() {
             <div className="text-lg"> I use React as frontend, MongoDB in database, and Nodejs as backend.</div>
              <div className="text-lg"> You can login and write review for the restaurant. </div>
               <a href ="https://mellifluous-arithmetic-067e17.netlify.app/" target="_blank" rel="noopener noreferrer">
-                 <div className="text-lg cursor-point bg-black text-white w-1/4 cursor-pointer py-3 m-4 text-center">Click here</div>
+                 <div className="text-lg cursor-point bg-black text-white w-1/4 cursor-pointer py-3 m-4 text-center">Website Link</div>
+              </a>
+              <a href ="https://github.com/lisa-gogo/foods_review_mern_stack" target="_blank" rel="noopener noreferrer">
+                 <div className="text-lg cursor-point bg-black text-white w-1/4 cursor-pointer py-3 m-4 text-center">Github</div>
               </a>
             <div>
               <Image
